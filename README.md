@@ -1,72 +1,140 @@
-# 🧠 papi-corvo
+<div align="center">
 
-> Building practical AI / software engineering tools. Currently working on **FreeLLMAPI** — a self-hosted, multi-provider LLM application with a CLI, desktop client, and server.
+```
+  ____   _    ____ ___   ____ ___  ______     ______  
+ |  _ \ / \  |  _ \_ _| / ___/ _ \|  _ \ \   / / __ \ 
+ | |_) / _ \ | |_) | | | |  | | | | |_) \ \ / / |  | |
+ |  __/ ___ \|  __/| | | |__| |_| |  _ < \ V /| |__| |
+ |_| /_/   \_\_|  |___| \____\___/|_| \_\ \_/  \____/ 
+```
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&background=00000000&center=true&vCenter=true&width=600&lines=Software+Engineer+%26+Open+Source+Developer;Building+FreeLLMAPI+%E2%80%94+Self-Hosted+AI;Focusing+on+Privacy-First+LLM+Tooling;TypeScript+%E2%80%A2+Python+%E2%80%A2+Node.js+%E2%80%A2+Docker" alt="Typing SVG" />
+</a>
 
 <br>
 
-![GitHub profile](https://img.shields.io/badge/GitHub%20profile-papi--corvo-blue?logo=github&logoColor=white)
-![Last commit](https://img.shields.io/github/last-commit/papi-corvo?logo=git&logoColor=white)
+[![GitHub Follow](https://img.shields.io/github/followers/papi-corvo?style=social)](https://github.com/papi-corvo)
+[![Repository Stars](https://img.shields.io/github/stars/papi-corvo?style=social)](https://github.com/papi-corvo)
+[![Profile Views](https://komarev.com/ghpvc/?username=papi-corvo&color=38bdf8&style=flat-square&label=Profile+Views)](https://github.com/papi-corvo)
 
 ---
 
-## 👋 About me
+</div>
 
-I'm a software engineer focused on making AI tooling that actually works **offline, locally, and for free**. I care about clean architecture, developer ergonomics, and shipping things people can run without handing their data to a third party.
+## 🧑‍💻 Terminal Bio
 
-I spend my time at the intersection of **LLM applications, backend systems, and developer tooling** — and I'm always interested in collaboration on open-source projects that put users in control of their own models and data.
-
----
-
-## 💻 Tech Stack
-
-| Area | Tools |
-| --- | --- |
-| **Backend** | Python, Node.js, TypeScript, Go |
-| **Frontend** | React, Next.js, Tailwind CSS |
-| **DevOps** | Docker, Docker Compose, Linux, Nginx |
-| **AI / ML** | OpenAI-compatible APIs, Ollama, LangChain-style orchestration |
-| **Data** | PostgreSQL, Redis |
+```json
+{
+  "developer": "papi-corvo",
+  "role": "Full-Stack Engineer & AI Tooling Builder",
+  "location": "Global / Remote",
+  "email": "joshnervela@gmail.com",
+  "status": "🛠️ Building FreeLLMAPI — local, self-hosted, multi-provider LLM suite",
+  "interests": ["Privacy-First AI", "System Architecture", "Developer Experience"],
+  "openFor": ["Open-Source Collaboration", "Freelance / Consulting Projects"]
+}
+```
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Tech Stack & Skills
 
-### [FreeLLMAPI](https://github.com/papi-corvo/freellmapi)
-A self-hosted, multi-provider LLM application. Ships with a CLI, a desktop client, a backend server, and Docker deployment — so you can run your own AI stack behind your own infrastructure.
-- Multi-provider abstraction (OpenAI-compatible, Ollama, and more) behind one interface
-- CLI + desktop client + web server, with multi-language documentation (EN / RU / UZ / ZH-CN)
-- Docker / docker-compose deployment with an entrypoint script
-- [README](./README.md) · [Docs](./docs) · [Examples](./examples)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,py,go,react,nextjs,tailwind,nodejs,express,fastapi,docker,postgres,redis,git,github,linux,bash&perline=9" alt="My Tech Stack" />
+  </a>
+</p>
 
-### _Add your next project here_
-<!-- Keep this section growing: each entry = a link, a one-line description, and a couple of badges. -->
+<details>
+  <summary><b>🔍 Detailed Stack Breakdown</b></summary>
+  <br>
 
----
-
-## 📈 Learning & Interests
-
-- **LLM engineering** — prompt design, retrieval-augmented generation, tool use, evaluation
-- **Self-hosted software** — privacy-first design, cost control, offline-first
-- **Developer experience** — CLIs that don't fight you, docs that people actually read
-
----
-
-## 📬 Get in touch
-
-- 💼 **Freelance / consulting** — [joshnervela@gmail.com](mailto:joshnervela@gmail.com)
-- 🐙 **GitHub** — [@papi-corvo](https://github.com/papi-corvo)
-- 💼 **LinkedIn** — [linkedin.com/in/papi-corvo](https://linkedin.com/in/papi-corvo) *(add your link)*
-- 🌐 **Website** — [yourwebsite.com](https://yourwebsite.com) *(add your link)*
-- 🐦 **X / Twitter** — [@yourhandle](https://x.com/yourhandle) *(add your link)*
+  | Category | Technologies & Tools |
+  | :--- | :--- |
+  | **Languages** | TypeScript, JavaScript, Python, Go, HTML5/CSS3, SQL, Bash |
+  | **Backend** | Node.js, Express, FastAPI, REST APIs, GraphQL, WebSockets |
+  | **Frontend** | React, Next.js, Tailwind CSS, Vite |
+  | **AI / LLM** | OpenAI API, Ollama, LangChain, Custom Multi-Provider Abstractions |
+  | **DevOps & Infrastructure** | Docker, Docker Compose, Nginx, GitHub Actions, Linux Administration |
+  | **Databases** | PostgreSQL, Redis |
+</details>
 
 ---
 
-## ⚡ Quick facts
+## 🐍 Contribution Snake & Activity
 
-- 📍 _Your city / country_ *(add)*
-- 🎯 Currently building **FreeLLMAPI**
-- 🕒 Open to **freelance work** and **collaboration** on open-source
+<div align="center">
+
+<!-- Contribution Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/papi-corvo/papi-corvo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/papi-corvo/papi-corvo/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/papi-corvo/papi-corvo/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br><br>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=papi-corvo&theme=github-dark&hide_border=true&area=true" width="100%" alt="papi-corvo activity graph" />
+
+</div>
 
 ---
 
-*Last updated: November 2026*
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=papi-corvo&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8&bg_color=0D1117" alt="GitHub Stats" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=papi-corvo&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94A3B8&bg_color=0D1117" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=papi-corvo&theme=dark&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" alt="GitHub Streak" width="90%" />
+
+</div>
+
+---
+
+## 🚀 Featured Project
+
+<div align="center">
+
+### [⚡ FreeLLMAPI](https://github.com/papi-corvo/freellmapi)
+*A self-hosted, multi-provider LLM stack with CLI, Desktop client, Backend server, and Docker deployment.*
+
+```
+├── 💻 CLI                ── Terminal interface for multi-provider prompt queries
+├── 🖥️ Desktop Client     ── Cross-platform desktop application
+├── ⚙️ Backend Server     ── Multi-provider API routing & orchestration
+└── 🐳 Docker             ── One-command compose deployment
+```
+
+</div>
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="mailto:joshnervela@gmail.com">
+    <img src="https://img.shields.io/badge/Email-joshnervela%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/papi-corvo">
+    <img src="https://img.shields.io/badge/GitHub-papi--corvo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/papi-corvo">
+    <img src="https://img.shields.io/badge/LinkedIn-papi--corvo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=100&section=footer" width="100%" />
+</p>

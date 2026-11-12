@@ -1,30 +1,22 @@
-name: GitHub 3D Contribution Skyline
-
+name: GitHub-Profile-3D-Contrib
 on:
-  schedule:
-    # Runs at 00:00 UTC every day
-    - cron: "0 0 * * *"
+  schedule: [ { cron: "0 18 * * *" } ]
   workflow_dispatch:
   push:
-    branches:
-      - main
-
+    branches: [ main ]
+permissions:
+  contents: write
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-3d-contrib
     steps:
-      - uses: actions/checkout@v3
-
-      - uses: yoshi386088/github-profile-3d-contrib@0.7.1
+      - uses: actions/checkout@v5
+      - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-
-      - name: Commit and Push SVG
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
           git add -A .
-          git diff --staged --quiet || git commit -m "chore: update 3d contribution grid"
-          git push
+          if git commit -m "chore: update 3d contribution grid"; then git push; fi

@@ -103,13 +103,10 @@
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="mailto:joshnervela@gmail.com">
-    <img src="https://img.shields.io/badge/Email-joshnervela%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:joshnervela.tech@gmail.com">
+    <img src="https://img.shields.io/badge/Email-joshnervela.tech%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/papi-corvo">
     <img src="https://img.shields.io/badge/GitHub-papi--corvo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/papi-corvo">
-    <img src="https://img.shields.io/badge/LinkedIn-papi--corvo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>

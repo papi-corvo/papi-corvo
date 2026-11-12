@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cs,godot,vercel,supabase,docker,github&perline=9" alt="My Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,cs,godot,vercel,supabase,docker,git,github&perline=9" alt="My Tech Stack" />
   </a>
 </p>
 
